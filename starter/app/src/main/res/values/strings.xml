@@ -3,12 +3,27 @@
     <string name="app_description">Download files from Internet</string>
     <string name="action_settings">Settings</string>
 
-
     <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
     <string name="notification_description">The Project 3 repository is downloaded</string>
-    <string name="notification_button">See changes</string>
+    <string name="notification_button">Check the download</string>
+
+    <string name="notification_channel_id">loading_file_status</string>
+    <string name="notification_channel_name">Download status</string>
+    <string name="notification_channel_description">loading_status</string>
+    <string name="notification_download_completed">Download finished</string>
 
     <string name="button_name">Click me</string>
+    <string name="button_default_text">Download</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="download_by_glide">Glide - Image Loading Library by BumpTech</string>
+    <string name="download_by_retrofit">Retrofit - Type-safe HTTP client for Android and Java by Square Inc</string>
+    <string name="download_by_loadapp">LoadApp - Current reprository by Udacity</string>
+
+    <string name="file_name">File name:</string>
+    <string name="download_status">Status:</string>
+    <string name="download_status_content_description">Download status</string>
+
+    <string name="unknown_file">Unknown</string>
 </resources>
